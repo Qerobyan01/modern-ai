@@ -15,7 +15,7 @@ const Navbar = () => {
             <a href="#home">Home</a>
           </p>
           <p>
-            <a href="#wgpt">What Is GPT3?</a>
+            <a href="#wgpt3">What Is GPT3?</a>
           </p>
           <p>
             <a href="#possibillity">Open AI</a>
@@ -53,7 +53,7 @@ const Navbar = () => {
                   <a href="#home">Home</a>
                 </p>
                 <p>
-                  <a href="#wgpt">What Is GPT3?</a>
+                  <a href="#wgpt3">What Is GPT3?</a>
                 </p>
                 <p>
                   <a href="#possibillity">Open AI</a>
